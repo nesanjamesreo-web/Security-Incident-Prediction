@@ -1,0 +1,11 @@
+login_attempts,failed_logins,unusual_activity,incident
+2,0,0,0
+5,1,0,0
+10,5,1,1
+15,10,1,1
+3,0,0,0
+20,15,1,1
+8,3,0,0
+12,7,1,1
+1,0,0,0
+18,12,1,1
